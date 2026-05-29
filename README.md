@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  Entorno & Herramientas**
+  Entorno & Herramientas
 </p>
 
 <p align="center">
