@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋  Soy Jonathan Pérez ✨ </h1> 
+<p align="center">
+<a href="https://www.linkedin.com/in/jonathan-ariel-p%C3%A9rez-l%C3%B3pez-02b190403/?skipRedirect=true" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Programador Jr"/></a>
+</p>
 
-<!--
-**Jonathan04102006/jonathan04102006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Software Developer
 
-Here are some ideas to get you started:
+Un apasionado por el desarrollo frontend enfocado en crear interfaces de usuario limpias, ordenadas y eficientes. Me gusta cuidar cada detalle del diseño visual y la estructura de componentes, priorizando siempre la arquitectura limpia, las soluciones nativas y el rendimiento óptimo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+📫 Contacto: jonaperez0406@gmail.com
+</p>
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Languages & Core**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frameworks & Ecosystem**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**Entorno & Herramientas**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Proyectos
+
+* 🎬 **The Movie Data Base** — Aplicación de exploración de cine que interactúa dinámicamente con la API de TMDb para el consumo de contenido multimedia.
+
+---
+# 📊 GitHub Estatus:
+![](https://github-readme-stats.shion.dev/api?username=jonathan04102006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jonathan04102006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jonathan04102006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
