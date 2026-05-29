@@ -43,7 +43,10 @@ Un apasionado por el desarrollo frontend enfocado en crear interfaces de usuario
 * 🎬 **The Movie Data Base** — Aplicación de exploración de cine que interactúa dinámicamente con la API de TMDb para el consumo de contenido multimedia.
 
 ---
-# 📊 GitHub Estatus:
-![](https://github-readme-stats.shion.dev/api?username=jonathan04102006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jonathan04102006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jonathan04102006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jonathan04102006&theme=dark&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=jonathan04102006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jonathan04102006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
+</p>
